@@ -4,7 +4,7 @@
 package gr2;
 
 /**
- * Hallo
+ * Hallo 2
  */
 public class App {
     public String getGreeting() {
